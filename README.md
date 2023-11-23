@@ -31,8 +31,6 @@ Breve descripción del proyecto.
 Este es un proyecto de Node.js con Express y PostgreSQL. Para crear una lista de tareas, se debe crear una base de datos en PostgreSQL con el nombre `todo` y ejecutar el script `todo.sql` que se encuentra en la carpeta `database`.
 
 ```bash
-├── database
-│   └── todo.sql
 ├── src
 │   ├── controllers
 │   │   └── todo.controller.js
